@@ -27,7 +27,7 @@ body, html {
 
 /* Third image (Contact) */
 .bgimg-3 {
-  background-image: url("./assets/Family_beach.jpeg");
+  background-image: url("./assets/jetengine.jpg");
   min-height: 400px;
 }
 
@@ -104,3 +104,4 @@ body, html {
     min-height: 400px;
   }
 }*/
+
