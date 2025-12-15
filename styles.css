@@ -27,7 +27,7 @@ body, html {
 
 /* Third image (Contact) */
 .bgimg-3 {
-  background-image: url("./assets/jetengine.jpg");
+  background-image: url("./assets/jetengine.JPG");
   min-height: 400px;
 }
 
@@ -104,4 +104,5 @@ body, html {
     min-height: 400px;
   }
 }*/
+
 
